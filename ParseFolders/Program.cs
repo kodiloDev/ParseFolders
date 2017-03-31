@@ -11,6 +11,7 @@ namespace ParseFolders
     {
         static void Main(string[] args)
         {
+            if (args.Length < 2) return;
 
             string savePath = "result.txt";
             if ((args.Length > 2) && !File.Exists(args[2]))
