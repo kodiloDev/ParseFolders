@@ -1,0 +1,6 @@
+c:\users\voytenko\documents\visual studio 2015\Projects\ParseFolders\ParseFolders\bin\Debug\ParseFolders.exe.config
+c:\users\voytenko\documents\visual studio 2015\Projects\ParseFolders\ParseFolders\bin\Debug\ParseFolders.exe
+c:\users\voytenko\documents\visual studio 2015\Projects\ParseFolders\ParseFolders\bin\Debug\ParseFolders.pdb
+c:\users\voytenko\documents\visual studio 2015\Projects\ParseFolders\ParseFolders\obj\Debug\ParseFolders.csprojResolveAssemblyReference.cache
+c:\users\voytenko\documents\visual studio 2015\Projects\ParseFolders\ParseFolders\obj\Debug\ParseFolders.exe
+c:\users\voytenko\documents\visual studio 2015\Projects\ParseFolders\ParseFolders\obj\Debug\ParseFolders.pdb
